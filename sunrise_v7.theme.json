@@ -1,0 +1,46 @@
+{
+  "name": "Sunrise",
+  "authors": [
+    {
+      "name": "AI Agent"
+    }
+  ],
+  "description": "A light, warm theme based on the Discord Nitro Sunrise aesthetic.",
+  "version": "1.0.0",
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/TheRealHyperno/sunrise-discord-theme/main/sunrise_gradient.png",
+    "blur": 0,
+    "alpha": 1.0
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#F3E9E0"],
+    "BACKGROUND_SECONDARY": ["#EFE3C9"],
+    "BACKGROUND_TERTIARY": ["#EDEAD7"],
+    "BACKGROUND_ACCENT": ["#EEDEE1"],
+    "MENTION_BACKGROUND": ["#D9B3C8"],
+    "BORDER_DEFAULT": ["#DBD5B1"],
+
+    "TEXT_NORMAL": ["#000000"],
+    "TEXT_DEFAULT": ["#000000"],
+    "TEXT_STRONG": ["#000000"],
+    "TEXT_LINK": ["#000000"],
+    "TEXT_HEADER": ["#000000"],
+    "TEXT_NORMAL_ACCENT": ["#000000"],
+    "HEADER_PRIMARY": ["#000000"],
+    "HEADER_SECONDARY": ["#333333"],
+    "CHANNEL_NAME": ["#000000"],
+    "CHANNELS_DEFAULT": ["#000000"],
+
+    "TEXT_MUTED": ["#8A8A8A"],
+    "TEXT_SUBTLE": ["#555555"],
+    "TEXT_MUTED_ACCENT": ["#8A8A8A"],
+
+    "INTERACTIVE_NORMAL": ["#000000"],
+    "INTERACTIVE_HOVER": ["#333333"],
+    "INTERACTIVE_ACTIVE": ["#000000"],
+    "ICON_DEFAULT": ["#000000"],
+    "ICON_STRONG": ["#000000"],
+    "ICON_SUBTLE": ["#555555"]
+  }
+}
