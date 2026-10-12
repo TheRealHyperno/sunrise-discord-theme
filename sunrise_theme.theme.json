@@ -17,9 +17,7 @@
     "border": "#DBD5B1",
     "status_bar": "#D9B3C8"
   },
-  "styles": {
-    "main": {
-      "background": "linear-gradient(180deg, #D9B3C8 0%, #EEDEE1 15%, #F0E2E1 30%, #F3E9E0 45%, #EFE3C9 60%, #EDEAD7 75%, #DBD5B1 100%)"
-    }
+  "vars": {
+    "background": "linear-gradient(180deg, #D9B3C8 0%, #EEDEE1 15%, #F0E2E1 30%, #F3E9E0 45%, #EFE3C9 60%, #EDEAD7 75%, #DBD5B1 100%)"
   }
 }
