@@ -1,0 +1,28 @@
+{
+  "name": "Sunrise",
+  "authors": [
+    {
+      "name": "AI Agent"
+    }
+  ],
+  "description": "A light, warm theme based on the Discord Nitro Sunrise aesthetic.",
+  "version": "1.0.0",
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/TheRealHyperno/sunrise-discord-theme/main/sunrise_gradient.png",
+    "blur": 0,
+    "alpha": 1.0
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#F3E9E0"],
+    "BACKGROUND_SECONDARY": ["#EFE3C9"],
+    "BACKGROUND_TERTIARY": ["#EDEAD7"],
+    "HEADER_PRIMARY": ["#D9B3C8"],
+    "TEXT_NORMAL": ["#000000"],
+    "TEXT_MUTED": ["#333333"],
+    "INTERACTIVE_NORMAL": ["#DBD5B1"],
+    "MENTION_BACKGROUND": ["#D9B3C8"],
+    "BACKGROUND_ACCENT": ["#EEDEE1"],
+    "BORDER_DEFAULT": ["#DBD5B1"]
+  }
+}
